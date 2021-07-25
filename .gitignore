@@ -1,0 +1,6 @@
+/node_modules
+/covid19-app.iml
+/.idea
+/coverage
+/target
+.DS_Store
